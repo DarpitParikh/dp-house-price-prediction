@@ -36,7 +36,7 @@ The main goal is to provide a data-driven, accurate, and automated approach to p
 - Optionally deploy using a web interface
 
 
-👨‍💻 Contributors
+👨‍💻 Contributors: 
 [Darpit Parikh](https://www.linkedin.com/in/darpit-parikh-376734313/)
 
 AI/ML Internship - Edunet Foundation | Supported by AICTE & IBM SkillsBuild
