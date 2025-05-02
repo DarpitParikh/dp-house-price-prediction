@@ -44,5 +44,3 @@ The main goal is to provide a data-driven, accurate, and automated approach to p
 Click the badge below to try the model live:
 
 [![HuggingFace Spaces](https://img.shields.io/badge/demo-live-green.svg)](https://huggingface.co/spaces/darpit28/dp_house_price_prediction)
-
-[Live Project](https://huggingface.co/spaces/darpit28/dp_house_price_prediction)
